@@ -1,2 +1,1 @@
-# FlappyBird
-a simple flappy bird game 
+This is a simple Flappy Bird game built using Python and the Pygame library. The player controls a bird that must fly between sets of pipes without hitting them. The game features basic physics, scoring, and a restart option after game over. To play, press the spacebar to make the bird flap and avoid the obstacles. It's a fun project to learn game development concepts with Python. Make sure you have Pygame installed, then run main.py to start the game.
